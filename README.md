@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, We're DelightInCode</h1>
 <h3 align="center">
-  A web design and development team with a commitment to producing the best
-  products.
+A team of experienced devs specializing in web development & integration of WordPress and ReactJS
 </h3>
 
 - 👨‍💻 All of my projects are available at [https://delightincode.com/](https://delightincode.com/)
