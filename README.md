@@ -3,9 +3,9 @@
 A team of experienced devs specializing in web development & integration of WordPress and ReactJS
 </h3>
 
-- 👨‍💻 All of my projects are available at [https://delightincode.com/](https://delightincode.com/)
+- 👨‍💻 All of my projects are available at [https://deliinco.com/](https://deliinco.com/)
 
-- 📝 I regularly write articles on [https://delightincode.com/blog/](https://delightincode.com/blog/)
+- 📝 I regularly write articles on [https://deliinco.com/blog/](https://deliinco.com/blog/)
 
 - 💬 Ask me about **react, php, wordpress**
 
