@@ -9,7 +9,7 @@ A team of experienced devs specializing in web development & integration of Word
 
 - 💬 Ask me about **react, php, wordpress**
 
-- 📫 How to reach me **contact.delightincode@gmail.com**
+- 📫 How to reach me **tuanph.tf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
