@@ -3,9 +3,9 @@
 A team of experienced devs specializing in web development & integration of WordPress and ReactJS
 </h3>
 
-- 👨‍💻 All of my projects are available at [https://themeforest.net/user/swin-theme/portfolio]([https://deliinco.com/](https://themeforest.net/user/swin-theme/portfolio))
+- 👨‍💻 All of my projects are available at [https://themeforest.net/user/swin-theme/portfolio](https://themeforest.net/user/swin-theme/portfolio)
 
-- 📝 I regularly write articles on [https://dev.to/delightincode/]([https://deliinco.com/blog](https://dev.to/delightincode)/)
+- 📝 I regularly write articles on [https://dev.to/delightincode/](https://dev.to/delightincode/)
 
 - 💬 Ask me about **react, php, wordpress**
 
